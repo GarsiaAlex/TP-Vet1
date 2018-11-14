@@ -1,15 +1,8 @@
 #include "stdafx.h"
 #include <iostream>
+#include "funcs.h"
 
 using namespace std;
-
-double mySum (double a, double b){
-	return a+b;
-}
-
-double mySub (double a, double b){
-	return a-b;
-}
 
 int main (){
 	cout << mySum(10, 3) << endl;
