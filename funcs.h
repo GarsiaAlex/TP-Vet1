@@ -3,5 +3,7 @@
 	
 	double mySum (double, double);
 	double mySub (double, double);
+	double myMul (double, double);
+	double myDel (double, double);
 	
 #endif
