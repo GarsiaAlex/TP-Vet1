@@ -8,6 +8,7 @@ int main (){
 	cout << mySum(10, 3) << endl;
 	cout << mySub(10, 3) << endl;
 	cout << myMul(10, 3) << endl;
+	cout << myDel(10, 3) << endl;
 	
 	system ("pause");
 	return 0;
