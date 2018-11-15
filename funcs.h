@@ -5,5 +5,6 @@
 	double mySub (double, double);
 	double myMul (double, double);
 	double myDel (double, double);
+	double myPow (int, int);
 	
 #endif
