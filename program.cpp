@@ -9,8 +9,8 @@ int main (){
 	cout << mySub(10, 3) << endl;
 	cout << myMul(10, 3) << endl;
 	cout << myDel(10, 3) << endl;
-	cout << myPow(10, 3) << endl;
-	
+	cout << myDel(10.5, 3.7) << endl;
+
 	system ("pause");
 	return 0;
 }
